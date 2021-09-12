@@ -17,6 +17,7 @@
 3. Rode `yarn` para instalar as dependências;
 4. Rode `yarn start` para iniciar o servidor.
 
-### Pronto: abra no seu navegador: `localhost:3000` 
+### Pronto: abra no seu navegador: 
+`localhost:3000` 
 
 
